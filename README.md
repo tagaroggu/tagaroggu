@@ -1,8 +1,25 @@
-### Hi there 👋
-[![tagaroggu's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/tagaroggu)
+### Hi there // Hola // Kamusta 👋
+<!--[![tagaroggu's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/tagaroggu)-->
 
 **Pronouns:**
 He/Him, Xe/Xim
+
+**Current projects:**
+- Redoing my website
+
+**Currently learning:**
+- More JavaScript
+- Material Design Components Web
+- Español
+- Cebuano and Tagalog, maybe
+
+**Looking for help with:**
+- Domain ideas for when I *can* get a domain
+- Working with frameworks
+
+**How to reach me:**
+- [@Junipyr on Telegram](https://t.me/@Junipyr)
+
 <!--
 **tagaroggu/tagaroggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
