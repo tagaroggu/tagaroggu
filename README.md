@@ -1,15 +1,21 @@
-### Hi there // Hola // Kamusta 👋
+### Hello // Hola // Kamusta 👋
 <!--[![tagaroggu's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/tagaroggu)-->
 
 **Pronouns:**
 He/Him, Xe/Xim
 
 **Current projects:**
-- Redoing my website
+- Random stuff
+- Fact site
+
+**Currently confident in ability in:**
+- lit-html
+- LitElement
 
 **Currently learning:**
 - More JavaScript
 - Material Design Components Web
+- Preact
 - Español
 - Cebuano and Tagalog, maybe
 
