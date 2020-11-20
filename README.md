@@ -7,6 +7,7 @@ He/Him, Xe/Xim
 **Current projects:**
 - Random stuff
 - Fact site
+- Client-side router for SPAs in lit-html or LitElement
 
 **Currently confident in ability in:**
 - lit-html
