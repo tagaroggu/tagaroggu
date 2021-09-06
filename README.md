@@ -2,27 +2,20 @@
 <!--[![tagaroggu's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/tagaroggu)-->
 
 **Pronouns:**
-He/Him, Xe/Xim
+- They
+- Xe
+- He
 
 **Current projects:**
 - Random stuff
-- Fact site
-- Client-side router for SPAs in lit-html or LitElement
 
 **Currently confident in ability in:**
-- lit-html
-- LitElement
+- Lit
 
 **Currently learning:**
-- More JavaScript
-- Material Design Components Web
-- Preact
 - Español
-- Cebuano and Tagalog, maybe
 
-**Looking for help with:**
-- Domain ideas for when I *can* get a domain
-- Working with frameworks
+<!--**Looking for help with:**-->
 
 **How to reach me:**
 - [@Junipyr on Telegram](https://t.me/@Junipyr)
