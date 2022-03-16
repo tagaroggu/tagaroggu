@@ -1,18 +1,17 @@
 ### Hello // Hola // Kamusta 👋
-<!--[![tagaroggu's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/tagaroggu)-->
+(tagaroggu.github.io redirects here)
 
-**Pronouns:**
-- They
-- Xe
-- He
+**Pronouns:** They // Xe // He
 
 **Current projects:**
 - Random stuff
+- doing schoolwork
 
 **Currently confident in ability in:**
-- Lit
+- [Lit](https://github.com/lit/lit#readme)
 
 **Currently learning:**
+- Vue 3
 - Español
 
 <!--**Looking for help with:**-->
