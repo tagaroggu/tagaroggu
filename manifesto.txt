@@ -1,0 +1,21 @@
+This is my list of guidelines for myself for programming and work in general. Some inspiration taken from yesterweb's list of internet manifestos [0].
+
+No to crypto, especially NFTs. After having experimented with crypto and web3 for a little bit, I have come to the conclusion that I will not entertain the idea no more. I will not add crypto base functionality to anything, especially NFT support in any way. My projects will not inherently support NFTS nor crypto.
+
+Offline, solo first. Most technologies should not require any sort of login or account linking to work. If it can be implemented without needing logins, or even internet, it should be implemented that way first. Connectivity is an afterthought, especially when redundant or unnecessary.
+
+Web0, not Web3. Web0 [1] is decentralization only, without Web3's metaverse, blockchain, and NFTs. Decentralization is not an inherent quality of Web3, especially considering the centralization of services on blockchain. Decentralization includes self-hosting and FOSS alternatives to proprietary software. Even simple Raspberry Pi 0 w servers can implement decentralization easily.
+
+Subscriptions should not be the first choice for revenue. Subscriptions, while they are an easy way to gain revenue, are overused for a bunch of products. Given any project, subscriptions should only make sense for revenue when the product is used on a habitual, recurring basis, such as media like TV, movies, and games.
+
+Data collection should not be a thing. Collecting data on users for the sole purpose of selling it to third parties for revenue is unethical. Users deserve privacy. 
+
+FOSS used in commercial situations should always be given back to. Donate to the maintainers behind the projects you use commercially or even contribute to the codebase itself with your own code to keep it up-to-date and reduce bugs. 
+
+Projects meant for the public should be self-hostable. Centralization of data and means leads to the same-old monotony of the current web. Self-hosting allows for control over the data of the self and allows for niches, groups, communities, and safety.
+
+
+
+References:
+0 https://yesterweb.org/manifesto/
+1 https://web0.small-web.org/
