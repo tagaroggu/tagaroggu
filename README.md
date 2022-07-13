@@ -1,5 +1,5 @@
 ### Hello // Hola // Kamusta 👋
-(tagaroggu.github.io redirects here)
+([tagaroggu.github.io](https://tagaroggu.github.io) redirects here)
 
 **Pronouns:** They // Xe // He
 
@@ -11,7 +11,8 @@
 - [Lit](https://github.com/lit/lit#readme)
 
 **Currently learning:**
-- Vue 3
+- [Vue 3](https://github.com/vuejs/core#readme)
+- [petite-vue](https://github.com/vuejs/petite-vue#readme)
 - Español
 
 <!--**Looking for help with:**-->
