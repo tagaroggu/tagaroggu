@@ -1,7 +1,5 @@
 ### Hello // Hola // Kamusta 👋
 
-([tagaroggu.github.io](https://tagaroggu.github.io) redirects here)
-
 ![Yesterweb](https://yesterweb.org/img/button.png)
 
 **Pronouns:** They // Xe // He
