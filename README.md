@@ -15,6 +15,9 @@
 - [Vue 3](https://github.com/vuejs/core#readme)
 - [petite-vue](https://github.com/vuejs/petite-vue#readme)
 - Español
+- [Qwik](https://qwik.builder.io)
+- [Svelte](https://svelte.dev)
+- [Preact](https://preactjs.com)
 
 <!--**Looking for help with:**-->
 
