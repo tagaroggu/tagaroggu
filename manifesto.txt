@@ -14,7 +14,7 @@ FOSS used in commercial situations should always be given back to. Donate to the
 
 Projects meant for the public should be self-hostable. Centralization of data and means leads to the same-old monotony of the current web. Self-hosting allows for control over the data of the self and allows for niches, groups, communities, and safety.
 
-
+AI should not be included in a project from the getgo, unless if the project is meant to revolve around AI. In general, a project that does not need AI should not include AI whatsoever.
 
 References:
 0 https://yesterweb.org/manifesto/
