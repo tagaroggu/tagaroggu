@@ -19,12 +19,6 @@
 - [Svelte](https://svelte.dev)
 - [Preact](https://preactjs.com)
 
-<!--**Looking for help with:**-->
-
-**How to reach me:**
-- [@Junipyr on Telegram](https://t.me/@Junipyr)
-- [@junipyr@mastodon.online](https://mastodon.online/@junipyr)
-- [@Tagaroggu on Twitter](https://twitter.com/tagaroggu)
 
 <!--
 **tagaroggu/tagaroggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
