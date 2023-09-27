@@ -2,35 +2,19 @@
 
 ![Yesterweb](https://yesterweb.org/img/button.png)
 
-**Pronouns:** They // Xe // He
+**Pronouns:** They // He
 
 **Current projects:**
 - Random stuff
-- doing schoolwork
+- [Ube](https://github.com/tagaroggu/ube), a cash register project
+- A library book and user management project
+- [Other small projects](https://github.com/tagaroggu?tab=repositories)
 
 **Currently confident in ability in:**
-- [Lit](https://github.com/lit/lit#readme)
+- [Lit](https://lit.dev) and [lit-html](https://lit.dev/docs/libraries/standalone-templates/)
+- [Vue 3](https://vuejs.org)
 
 **Currently learning:**
-- [Vue 3](https://github.com/vuejs/core#readme)
 - [petite-vue](https://github.com/vuejs/petite-vue#readme)
-- Español
-- [Qwik](https://qwik.builder.io)
-- [Svelte](https://svelte.dev)
-- [Preact](https://preactjs.com)
-
-
-<!--
-**tagaroggu/tagaroggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Español // Português
+- Maybe Filipino
