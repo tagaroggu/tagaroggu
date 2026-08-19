@@ -7,7 +7,7 @@
 **Current projects:**
 - [Random stuff](https://github.com/tagaroggu?tab=repositories)
 - Relearning programming from the ground up with C
-- C-based static site generator (maybe)
+- [Jomon, a pattern generator](https://github.com/tagaroggu/jomon)
 
 **Currently confident in ability in:**
 - 🤷
